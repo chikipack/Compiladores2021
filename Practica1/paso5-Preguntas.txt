@@ -1,0 +1,12 @@
+1. ¿Qué compilador de lenguaje C++ usaste?
+
+2. ¿Qué versión del compilador de lenguaje C++ usaste?
+
+3. ¿Qué es el diseño orientado a objetos?
+
+4. ¿Qué hace un AFD?
+
+5. ¿Qué hace un AFN?
+
+6. ¿Cuál es tu usuario de github?
+chikipack - https://github.com/chikipack
