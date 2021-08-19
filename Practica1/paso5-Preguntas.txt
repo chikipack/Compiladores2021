@@ -1,12 +1,28 @@
 1. ¿Qué compilador de lenguaje C++ usaste?
-
+gcc
 2. ¿Qué versión del compilador de lenguaje C++ usaste?
+gcc version 10.2.0
 
 3. ¿Qué es el diseño orientado a objetos?
+el DOO es una forma de diseñar un sistema utilizando el paradigma
+de la programacion orientada a objetos en el cual abstraemos 
+"objetos" del mundo real tomando en cuenta las caracterisitcas 
+(atributos) mas importantes de estos objetos, asi como las cosas que pueden
+hacer (metodos).
 
 4. ¿Qué hace un AFD?
+leer expresiones regulares (lenguajes regulares) en donde cada 
+uno de los elementos del alfabeto que lee, tiene una y solo una 
+transicion a un estado posible
 
 5. ¿Qué hace un AFN?
+leer y reconocer lenguajes regulares
+leer expresiones regulares
+la diferencia principal con un AFD es que el automata finito 
+no determinista, con un elemento del alfabeto puede ir a mas
+de un estado.
+es decir, con el elemento n del alfabeto puede ir a q_n y a q_m
 
 6. ¿Cuál es tu usuario de github?
 chikipack - https://github.com/chikipack
+Repo: https://github.com/chikipack/Compiladores2021
